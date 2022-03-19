@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/react-reveal/static/js/main.0614abdf.js",
+    "static/media/img1.jpeg": "/react-reveal/static/media/img1.deb2ea6837edbe4de0a3.jpeg",
+    "static/media/img2.jpeg": "/react-reveal/static/media/img2.de5659898d3bfc5eb8ea.jpeg",
+    "static/media/img3.jpeg": "/react-reveal/static/media/img3.b12983d5b678604758d7.jpeg",
+    "static/media/img4.jpeg": "/react-reveal/static/media/img4.72493556609fb808e4f0.jpeg",
+    "index.html": "/react-reveal/index.html",
+    "main.0614abdf.js.map": "/react-reveal/static/js/main.0614abdf.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0614abdf.js"
+  ]
+}
