@@ -14,7 +14,7 @@ const Wrapper = styled.div`
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  height: 300vh;
+  height: auto;
   width: 100%;
 `;
 
@@ -24,7 +24,7 @@ const Box = styled.div`
   align-items: center;
   justify-content: center;
   width: 100%;
-  height: 100%;
+  height: 100vh;
 
   background-color: black;
 `;
